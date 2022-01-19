@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Phytech-assignmen/static/css/main.7daa4ed0.css",
+    "main.js": "/Phytech-assignmen/static/js/main.b052a284.js",
+    "static/js/787.7bab2416.chunk.js": "/Phytech-assignmen/static/js/787.7bab2416.chunk.js",
+    "index.html": "/Phytech-assignmen/index.html",
+    "main.7daa4ed0.css.map": "/Phytech-assignmen/static/css/main.7daa4ed0.css.map",
+    "main.b052a284.js.map": "/Phytech-assignmen/static/js/main.b052a284.js.map",
+    "787.7bab2416.chunk.js.map": "/Phytech-assignmen/static/js/787.7bab2416.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7daa4ed0.css",
+    "static/js/main.b052a284.js"
+  ]
+}
